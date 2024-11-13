@@ -3,7 +3,7 @@
  * Plugin Name:果果推送
  * Plugin URI:https://www.ggdoc.cn/plugin/1.html
  * Description:支持百度搜索引擎的普通、快速抓取、微软Bing搜索引擎、以及IndexNow方式的Api提交链接功能，同时还支持定时提交链接功能。
- * Version:0.0.6
+ * Version:0.0.7
  * Requires at least:5.3
  * Requires PHP:7.0
  * Author:果果开发

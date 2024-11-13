@@ -16,12 +16,12 @@ CREATE TABLE {$table_name} (
 	`record_id` BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
 	`record_platform` TINYINT(3) UNSIGNED NOT NULL DEFAULT '1' COMMENT '推送平台：1 百度，2 360，3 搜狗，4 头条，5 神马，6 bing，7 谷歌，8 indexnow，9 yandex，10 Seznam.cz',
 	`record_mode` TINYINT(3) UNSIGNED NOT NULL DEFAULT '1' COMMENT '推送方式：1 普通收录，2 快速抓取，3 js提交，4 api提交，5 indexnow',
-	`record_urls` LONGTEXT NULL DEFAULT NULL COMMENT '推送链接' COLLATE 'utf8mb4_general_ci',
+	`record_urls` LONGTEXT NULL DEFAULT NULL COMMENT '推送链接' ,
 	`record_num` INT(10) UNSIGNED NOT NULL DEFAULT '0' COMMENT '推送链接数量',
-	`record_result` TEXT NULL DEFAULT NULL COMMENT '推送结果' COLLATE 'utf8mb4_general_ci',
+	`record_result` TEXT NULL DEFAULT NULL COMMENT '推送结果' ,
 	`record_result_code` SMALLINT(5) UNSIGNED NOT NULL DEFAULT '200' COMMENT '推送结果状态码',
 	`record_result_status` TINYINT(3) UNSIGNED NOT NULL DEFAULT '1' COMMENT '推送状态：1 成功，2 失败，3 未知',
-	`record_result_error` VARCHAR(255) NOT NULL DEFAULT '' COMMENT '失败原因' COLLATE 'utf8mb4_general_ci',
+	`record_result_error` VARCHAR(255) NOT NULL DEFAULT '' COMMENT '失败原因' ,
 	`record_date` DATETIME NULL DEFAULT NULL COMMENT '推送时间',
 	PRIMARY KEY (`record_id`) USING BTREE
 ) {$charset_collate};

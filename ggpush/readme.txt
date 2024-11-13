@@ -4,8 +4,8 @@ Donate link: https://www.ggdoc.cn
 Tags:百度推送,必应推送,IndexNow推送,定时推送,提交链接
 Requires at least: 5.3
 Requires PHP:7.0
-Tested up to: 6.6
-Stable tag: 0.0.6
+Tested up to: 6.7
+Stable tag: 0.0.7
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 发现好产品：
 
+* [WordPress果果百度云对象存储插件](https://www.ggdoc.cn/plugin/28.html)：将网站上的图片等静态资源文件上传至百度云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果华为云对象存储插件](https://www.ggdoc.cn/plugin/27.html)：将网站上的图片等静态资源文件上传至华为云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果腾讯云对象存储插件](https://www.ggdoc.cn/plugin/26.html)：将网站上的图片等静态资源文件上传至腾讯云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果阿里云对象存储插件](https://www.ggdoc.cn/plugin/25.html)：将网站上的图片等静态资源文件上传至阿里云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果七牛云对象存储插件](https://www.ggdoc.cn/plugin/24.html)：将网站上的图片等静态资源文件上传至七牛云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress免费证书插件](https://www.ggdoc.cn/plugin/23.html)：为了在您的网站上启用HTTPS，您可以使用本插件快速获取Let’s Encrypt免费证书。
+* [WordPress内容付费插件](https://www.ggdoc.cn/plugin/22.html)：支持隐藏文章内容的一部分或者隐藏指定分类下的所有文章，用户需要付费后才可以查看。
+* [WordPress内容替换插件](https://www.ggdoc.cn/plugin/21.html)：可以将文章、页面、评论、数据库表等内容中的文字替换或者删除，插件不仅支持普通文字替换或者删除，还支持使用正则表达式替换或者删除文字。
 * [WordPress果果推送插件](https://www.ggdoc.cn/plugin/1.html)：支持百度搜索引擎、神马搜索引擎、自动收录、Sitemap、谷歌搜索引擎、Yandex搜索引擎、微软Bing搜索引擎以及IndexNow方式的Api提交链接功能，让搜索引擎更快的发现您网站上的新内容链接。
 * [WordPress双标题插件](https://www.ggdoc.cn/plugin/2.html)：支持文章双标题显示、自定义双标题显示模板、自动解析已是双标题的文章。
 * [WordPress文章配图插件](https://www.ggdoc.cn/plugin/3.html)：文章配图插件是一个可以自动给文章创建缩略图、在文章内容里添加图片的插件。
@@ -68,6 +76,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 = IndexNow的密钥在哪里获取？ =
 不需要获取，只需要在插件设置那里填写32位随机字符串，插件会自动生成密钥验证文件。
 
+= 百度推送为什么会报site error错误？ =
+这是因为百度站长平台推送接口调用地址中的站点地址与网站后台（设置》常规》WordPress 地址（URL））不一样，才导致的推送报错。一般在百度站长平台中验证的站点带www，而网站不带www导致的，只需要将它们修改为一致即可。
+
 = 为什么网站后台变慢了？ =
 因为插件需要定时向搜索平台推送链接，而默认的WordPress执行计划任务的条件是用户访问网站时才会执行，可以禁止用户访问网站时触发计划任务，直接通过其它方式执行计划任务脚本。
 
@@ -89,6 +100,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Upgrade Notice ==
 
+= 0.0.7 =
+解决了1个bug
+
 = 0.0.6 =
 添加百度快速抓取
 
@@ -108,6 +122,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 参考Changelog说明
 
 == Changelog ==
+
+= 0.0.7 =
+* 解决了1个bug
 
 = 0.0.6 =
 * 添加百度快速抓取

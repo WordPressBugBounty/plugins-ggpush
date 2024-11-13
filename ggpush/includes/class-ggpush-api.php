@@ -187,6 +187,9 @@ class Ggpush_Api
         }
         global $wpdb;
         $table_name = $wpdb->prefix . 'ggpush_records';
+        if (empty($data['record_date'])) {
+            $data['record_date'] = wp_date('Y-m-d H:i:s');
+        }
         return $wpdb->insert($table_name, $data);
     }
 
