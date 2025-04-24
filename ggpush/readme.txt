@@ -4,7 +4,7 @@ Donate link: https://www.ggdoc.cn
 Tags:百度推送,必应推送,IndexNow推送,定时推送,提交链接
 Requires at least: 5.3
 Requires PHP:7.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 0.0.7
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,6 +25,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 发现好产品：
 
+* [WordPress自动别名插件](https://www.ggdoc.cn/plugin/33.html)：可以给文章、自定义文章、页面、标签、自定义标签、分类、自定义分类设置个性化别名，帮助您的网站在搜索引擎中有更好的排名。
+* [WordPress定时发布插件](https://www.ggdoc.cn/plugin/32.html)：将网站后台发布的文章、通过REST API发布的文章、草稿箱内的文章进行定时发布，确保网站每天都可以有新文章发布。
+* [WordPress生成长尾关键词插件](https://www.ggdoc.cn/plugin/31.html)：通过导入关键词，然后从搜索引擎获取到相关的长尾关键词，最后将长尾关键词导出至文件、数据库表、分类、标签来使用。
+* [WordPress标签导入插件](https://www.ggdoc.cn/plugin/30.html)：可以将txt里的标签或者分类导入到网站，同时支持标签和分类关联文章。
+* [WordPress果果AI创作插件](https://www.ggdoc.cn/plugin/29.html)：果果AI创作集成了百度千帆大模型、讯飞星火大模型、火山方舟大模型、阿里云百炼大模型、腾讯混元大模型、DeepSeek大模型、Google Gemini大模型、ChatGPT大模型、自定义大模型，通过导入文章标题，就可以生成文章内容的AI创作插件。
 * [WordPress果果百度云对象存储插件](https://www.ggdoc.cn/plugin/28.html)：将网站上的图片等静态资源文件上传至百度云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
 * [WordPress果果华为云对象存储插件](https://www.ggdoc.cn/plugin/27.html)：将网站上的图片等静态资源文件上传至华为云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
 * [WordPress果果腾讯云对象存储插件](https://www.ggdoc.cn/plugin/26.html)：将网站上的图片等静态资源文件上传至腾讯云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
