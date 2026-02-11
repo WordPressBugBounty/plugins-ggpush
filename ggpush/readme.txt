@@ -4,7 +4,7 @@ Donate link: https://www.ggdoc.cn
 Tags:百度推送,必应推送,IndexNow推送,定时推送,提交链接
 Requires at least: 5.3
 Requires PHP:7.0
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 0.0.7
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
