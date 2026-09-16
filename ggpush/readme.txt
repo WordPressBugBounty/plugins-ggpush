@@ -1,10 +1,10 @@
 ﻿=== 果果推送 ===
 Contributors: wyzda2021
-Donate link: https://www.ggdoc.cn
+Donate link: https://auth.ggdoc.cn
 Tags:百度推送,必应推送,IndexNow推送,定时推送,提交链接
 Requires at least: 5.3
 Requires PHP:7.0
-Tested up to: 7.0
+Tested up to: 7.1
 Stable tag: 0.0.7
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,39 +25,39 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 发现好产品：
 
-* [WordPress自动别名插件](https://www.ggdoc.cn/plugin/33.html)：可以给文章、自定义文章、页面、标签、自定义标签、分类、自定义分类设置个性化别名，帮助您的网站在搜索引擎中有更好的排名。
-* [WordPress定时发布插件](https://www.ggdoc.cn/plugin/32.html)：将网站后台发布的文章、通过REST API发布的文章、草稿箱内的文章进行定时发布，确保网站每天都可以有新文章发布。
-* [WordPress生成长尾关键词插件](https://www.ggdoc.cn/plugin/31.html)：通过导入关键词，然后从搜索引擎获取到相关的长尾关键词，最后将长尾关键词导出至文件、数据库表、分类、标签来使用。
-* [WordPress标签导入插件](https://www.ggdoc.cn/plugin/30.html)：可以将txt里的标签或者分类导入到网站，同时支持标签和分类关联文章。
-* [WordPress果果AI创作插件](https://www.ggdoc.cn/plugin/29.html)：果果AI创作集成了百度千帆大模型、讯飞星火大模型、火山方舟大模型、阿里云百炼大模型、腾讯混元大模型、DeepSeek大模型、Google Gemini大模型、ChatGPT大模型、自定义大模型，通过导入文章标题，就可以生成文章内容的AI创作插件。
-* [WordPress果果百度云对象存储插件](https://www.ggdoc.cn/plugin/28.html)：将网站上的图片等静态资源文件上传至百度云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
-* [WordPress果果华为云对象存储插件](https://www.ggdoc.cn/plugin/27.html)：将网站上的图片等静态资源文件上传至华为云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
-* [WordPress果果腾讯云对象存储插件](https://www.ggdoc.cn/plugin/26.html)：将网站上的图片等静态资源文件上传至腾讯云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
-* [WordPress果果阿里云对象存储插件](https://www.ggdoc.cn/plugin/25.html)：将网站上的图片等静态资源文件上传至阿里云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
-* [WordPress果果七牛云对象存储插件](https://www.ggdoc.cn/plugin/24.html)：将网站上的图片等静态资源文件上传至七牛云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
-* [WordPress免费证书插件](https://www.ggdoc.cn/plugin/23.html)：为了在您的网站上启用HTTPS，您可以使用本插件快速获取Let’s Encrypt免费证书。
-* [WordPress内容付费插件](https://www.ggdoc.cn/plugin/22.html)：支持隐藏文章内容的一部分或者隐藏指定分类下的所有文章，用户需要付费后才可以查看。
-* [WordPress内容替换插件](https://www.ggdoc.cn/plugin/21.html)：可以将文章、页面、评论、数据库表等内容中的文字替换或者删除，插件不仅支持普通文字替换或者删除，还支持使用正则表达式替换或者删除文字。
-* [WordPress果果推送插件](https://www.ggdoc.cn/plugin/1.html)：支持百度搜索引擎、神马搜索引擎、自动收录、Sitemap、谷歌搜索引擎、Yandex搜索引擎、微软Bing搜索引擎以及IndexNow方式的Api提交链接功能，让搜索引擎更快的发现您网站上的新内容链接。
-* [WordPress双标题插件](https://www.ggdoc.cn/plugin/2.html)：支持文章双标题显示、自定义双标题显示模板、自动解析已是双标题的文章。
-* [WordPress文章配图插件](https://www.ggdoc.cn/plugin/3.html)：文章配图插件是一个可以自动给文章创建缩略图、在文章内容里添加图片的插件。
-* [WordPress隐藏内容插件](https://www.ggdoc.cn/plugin/4.html)：支持隐藏文章内容的一部分，用户需要关注微信公众号或百家号才可以查看。
-* [WordPress果果加速插件](https://www.ggdoc.cn/plugin/5.html)：支持将网站前台页面内容缓存到文件、Redis、Memcached里，以此来加速网站页面的访问速度。
-* [WordPress图片本地化插件](https://www.ggdoc.cn/plugin/6.html)：支持将第三方网站图片下载到本地服务器，支持手动或自动执行图片本地化，再也不怕文章内容中含有第三方网站图片链接！
-* [WordPress果果CMS主题](https://www.ggdoc.cn/theme/7.html)：果果CMS是基于WordPress开发的超精简的一款主题，它在原有的特性上添加了许多新特性，例如：随机文章、随机标签、随机分类、广告、轮播图、友链等。
-* [WordPress果果代码高亮插件](https://www.ggdoc.cn/plugin/8.html)：支持在文章写作中使用代码示例、表格功能，同时查看文章时可以高亮代码。
-* [WordPress文章自动标签插件](https://www.ggdoc.cn/plugin/9.html)：文章自动标签是一个可以自动给文章创建标签、在文章内容里添加标签链接的插件。
-* [WordPress网站配文（又名：大力出奇迹）插件](https://www.ggdoc.cn/plugin/10.html)：SEO界有句名言：大力出奇迹。言外之意就是，网站只要内容多，搜索引擎收录多，就会出现奇迹！这奇迹一般指的是流量和权重。我相信你一定看到过这样的网站，像最近流行的百科站，都是通过采集大量数据，生成大量的文章，它们的收录量甚至达到百万级别，流量以及权重就不用说了，一般都可以达到权重5。而我们开发的 网站配文 这款插件也可以大量生成文章，而且文章原创性较强，更利于搜索引擎收录。
-* [WordPress违禁词过滤插件](https://www.ggdoc.cn/plugin/11.html)：违禁词过滤插件可以删除或者替换文章、页面和评论内容中出现的违禁词，同时也可以将出现违禁词的内容设为待审核状态或者移至回收站，等待进一步的人工处理。本插件不仅仅可以过滤违禁词，只要内容中出现不想要的文字，都可以使用插件删除或者替换掉。
-* [WordPress果果优化插件](https://www.ggdoc.cn/plugin/12.html)：果果优化插件是一款可以优化WordPress系统功能的插件，可以通过插件禁用掉一些不常用的WordPress功能，例如：WordPress Feed、WordPress Emojis、WordPress Pingback、WordPress wp-json等功能。禁用这些功能后，可以有效提升网站的性能。
-* [WordPress SEO模板伪原创插件](https://www.ggdoc.cn/plugin/13.html)：做SEO优化时，原创内容很重要。试想一下，如果一个主题模板被很多网站使用，那么搜索引擎有没有可能判定这些网站的原创性低了？
-* [WordPress文章推荐插件](https://www.ggdoc.cn/plugin/14.html)：支持在文章内容底部和网站侧边栏推荐最新文章、随机文章、相关文章、最新标签、随机标签、文章标签。
-* [WordPress果果安全卫士插件](https://www.ggdoc.cn/plugin/15.html)：果果安全卫士是一款支持统计和防护2大功能的插件。统计功能支持全球IP（IPv4和IPv6）定位，可以定位到地级行政区。防护功能支持IP拦截、地区拦截、UserAgent拦截，同时支持限速拦截。
-* [WordPress数据库查询缓存插件](https://www.ggdoc.cn/plugin/16.html)：将MySQL查询语句执行完后的结果缓存至文件、Redis、Memcached，当再次查询时，直接从缓存中读取结果，让页面浏览更快！
-* [WordPress微信公众号同步助手插件](https://www.ggdoc.cn/plugin/17.html)：将网站文章同步至微信公众号，或者将微信公众号文章同步至网站。同步文章支持自动同步、手动同步2种方式。
-* [WordPress广告赚钱插件](https://www.ggdoc.cn/plugin/18.html)：可以在文章内容里添加文字、图片、自定义（JavaScript、百度联盟等）广告，从而实现网站靠广告赚钱。
-* [WordPress果果SEO优化插件](https://www.ggdoc.cn/plugin/19.html)：可以在网站页面源代码中添加关键字、描叙、落地页时间因子、360搜索智能摘要等meta元素，这样做有助于提高网站在搜索引擎中的排名和可见度，从而吸引更多的潜在用户。
-* [WordPress自动引流跳转插件](https://www.ggdoc.cn/plugin/20.html)：如果想要将网站流量引流至其它网站，或者想要将网站流量变现，均可以使用本插件。插件可以对网站特定的访问用户，实行引流跳转。
+* [WordPress自动别名插件](https://auth.ggdoc.cn/product/33)：可以给文章、自定义文章、页面、标签、自定义标签、分类、自定义分类设置个性化别名，帮助您的网站在搜索引擎中有更好的排名。
+* [WordPress定时发布插件](https://auth.ggdoc.cn/product/32)：将网站后台发布的文章、通过REST API发布的文章、草稿箱内的文章进行定时发布，确保网站每天都可以有新文章发布。
+* [WordPress生成长尾关键词插件](https://auth.ggdoc.cn/product/31)：通过导入关键词，然后从搜索引擎获取到相关的长尾关键词，最后将长尾关键词导出至文件、数据库表、分类、标签来使用。
+* [WordPress标签导入插件](https://auth.ggdoc.cn/product/30)：可以将txt里的标签或者分类导入到网站，同时支持标签和分类关联文章。
+* [WordPress果果AI创作插件](https://auth.ggdoc.cn/product/29)：果果AI创作集成了百度千帆大模型、讯飞星火大模型、火山方舟大模型、阿里云百炼大模型、腾讯混元大模型、DeepSeek大模型、Google Gemini大模型、ChatGPT大模型、自定义大模型，通过导入文章标题，就可以生成文章内容的AI创作插件。
+* [WordPress果果百度云对象存储插件](https://auth.ggdoc.cn/product/28)：将网站上的图片等静态资源文件上传至百度云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果华为云对象存储插件](https://auth.ggdoc.cn/product/27)：将网站上的图片等静态资源文件上传至华为云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果腾讯云对象存储插件](https://auth.ggdoc.cn/product/26)：将网站上的图片等静态资源文件上传至腾讯云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果阿里云对象存储插件](https://auth.ggdoc.cn/product/25)：将网站上的图片等静态资源文件上传至阿里云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress果果七牛云对象存储插件](https://auth.ggdoc.cn/product/24)：将网站上的图片等静态资源文件上传至七牛云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。
+* [WordPress免费证书插件](https://auth.ggdoc.cn/product/23)：为了在您的网站上启用HTTPS，您可以使用本插件快速获取Let’s Encrypt免费证书。
+* [WordPress内容付费插件](https://auth.ggdoc.cn/product/22)：支持隐藏文章内容的一部分或者隐藏指定分类下的所有文章，用户需要付费后才可以查看。
+* [WordPress内容替换插件](https://auth.ggdoc.cn/product/21)：可以将文章、页面、评论、数据库表等内容中的文字替换或者删除，插件不仅支持普通文字替换或者删除，还支持使用正则表达式替换或者删除文字。
+* [WordPress果果推送插件](https://auth.ggdoc.cn/product/1)：支持百度搜索引擎、神马搜索引擎、自动收录、Sitemap、谷歌搜索引擎、Yandex搜索引擎、微软Bing搜索引擎以及IndexNow方式的Api提交链接功能，让搜索引擎更快的发现您网站上的新内容链接。
+* [WordPress双标题插件](https://auth.ggdoc.cn/product/2)：支持文章双标题显示、自定义双标题显示模板、自动解析已是双标题的文章。
+* [WordPress文章配图插件](https://auth.ggdoc.cn/product/3)：文章配图插件是一个可以自动给文章创建缩略图、在文章内容里添加图片的插件。
+* [WordPress隐藏内容插件](https://auth.ggdoc.cn/product/4)：支持隐藏文章内容的一部分，用户需要关注微信公众号或百家号才可以查看。
+* [WordPress果果加速插件](https://auth.ggdoc.cn/product/5)：支持将网站前台页面内容缓存到文件、Redis、Memcached里，以此来加速网站页面的访问速度。
+* [WordPress图片本地化插件](https://auth.ggdoc.cn/product/6)：支持将第三方网站图片下载到本地服务器，支持手动或自动执行图片本地化，再也不怕文章内容中含有第三方网站图片链接！
+* [WordPress果果CMS主题](https://auth.ggdoc.cn/theme/7)：果果CMS是基于WordPress开发的超精简的一款主题，它在原有的特性上添加了许多新特性，例如：随机文章、随机标签、随机分类、广告、轮播图、友链等。
+* [WordPress果果代码高亮插件](https://auth.ggdoc.cn/product/8)：支持在文章写作中使用代码示例、表格功能，同时查看文章时可以高亮代码。
+* [WordPress文章自动标签插件](https://auth.ggdoc.cn/product/9)：文章自动标签是一个可以自动给文章创建标签、在文章内容里添加标签链接的插件。
+* [WordPress网站配文（又名：大力出奇迹）插件](https://auth.ggdoc.cn/product/10)：SEO界有句名言：大力出奇迹。言外之意就是，网站只要内容多，搜索引擎收录多，就会出现奇迹！这奇迹一般指的是流量和权重。我相信你一定看到过这样的网站，像最近流行的百科站，都是通过采集大量数据，生成大量的文章，它们的收录量甚至达到百万级别，流量以及权重就不用说了，一般都可以达到权重5。而我们开发的 网站配文 这款插件也可以大量生成文章，而且文章原创性较强，更利于搜索引擎收录。
+* [WordPress违禁词过滤插件](https://auth.ggdoc.cn/product/11)：违禁词过滤插件可以删除或者替换文章、页面和评论内容中出现的违禁词，同时也可以将出现违禁词的内容设为待审核状态或者移至回收站，等待进一步的人工处理。本插件不仅仅可以过滤违禁词，只要内容中出现不想要的文字，都可以使用插件删除或者替换掉。
+* [WordPress果果优化插件](https://auth.ggdoc.cn/product/12)：果果优化插件是一款可以优化WordPress系统功能的插件，可以通过插件禁用掉一些不常用的WordPress功能，例如：WordPress Feed、WordPress Emojis、WordPress Pingback、WordPress wp-json等功能。禁用这些功能后，可以有效提升网站的性能。
+* [WordPress SEO模板伪原创插件](https://auth.ggdoc.cn/product/13)：做SEO优化时，原创内容很重要。试想一下，如果一个主题模板被很多网站使用，那么搜索引擎有没有可能判定这些网站的原创性低了？
+* [WordPress文章推荐插件](https://auth.ggdoc.cn/product/14)：支持在文章内容底部和网站侧边栏推荐最新文章、随机文章、相关文章、最新标签、随机标签、文章标签。
+* [WordPress果果安全卫士插件](https://auth.ggdoc.cn/product/15)：果果安全卫士是一款支持统计和防护2大功能的插件。统计功能支持全球IP（IPv4和IPv6）定位，可以定位到地级行政区。防护功能支持IP拦截、地区拦截、UserAgent拦截，同时支持限速拦截。
+* [WordPress数据库查询缓存插件](https://auth.ggdoc.cn/product/16)：将MySQL查询语句执行完后的结果缓存至文件、Redis、Memcached，当再次查询时，直接从缓存中读取结果，让页面浏览更快！
+* [WordPress微信公众号同步助手插件](https://auth.ggdoc.cn/product/17)：将网站文章同步至微信公众号，或者将微信公众号文章同步至网站。同步文章支持自动同步、手动同步2种方式。
+* [WordPress广告赚钱插件](https://auth.ggdoc.cn/product/18)：可以在文章内容里添加文字、图片、自定义（JavaScript、百度联盟等）广告，从而实现网站靠广告赚钱。
+* [WordPress果果SEO优化插件](https://auth.ggdoc.cn/product/19)：可以在网站页面源代码中添加关键字、描叙、落地页时间因子、360搜索智能摘要等meta元素，这样做有助于提高网站在搜索引擎中的排名和可见度，从而吸引更多的潜在用户。
+* [WordPress自动引流跳转插件](https://auth.ggdoc.cn/product/20)：如果想要将网站流量引流至其它网站，或者想要将网站流量变现，均可以使用本插件。插件可以对网站特定的访问用户，实行引流跳转。
 
 == Installation ==
 
